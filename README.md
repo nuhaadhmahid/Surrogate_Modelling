@@ -5,7 +5,7 @@ This repository contains the code for training a deep neural network to emulate 
 ## Pre-requisite
 A sandwich panel with made of a cellular core and flexible facesheet has a highly nonlinear stiffness response and requires a fine mesh to compute converged FEM simulation results. This makes simulation expensive, and therefore, infeasible for design space exploration on large structures. In particular I consider an aircraft wing section with a fairing made up of the sandwich panel covering a folding wingtip joint. 
 
-<p style="text-align:center">
+<p align="center">
     <img src="images/Fairing.png" width="400" alt="Fairing">
 </p>
 
