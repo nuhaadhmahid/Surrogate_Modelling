@@ -1,4 +1,4 @@
-# Surrogate model for emulating nonlinear stiffness using Deep Learning
+# Surrogate model for emulating nonlinear stiffness
 
 The setup below shows a wing section which has a sandwich panel skin. The sandwich panel has a highly nonlinear stiffness. Hence, it requires a fine solid mesh to compute converged FEM simulation results. This make the modelling of the wing section using solid elements (i.e., fullscale model) infeasible. Instead, wing section can be modelled using shell elements (i.e., reduced-order model) with stiffness properties updated to account for the nonlinear stiffness.
 
